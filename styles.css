@@ -15,7 +15,7 @@ body{
     display: flex;
     flex-direction: column;
     width: 350px;
-    height: 550px;
+    height: 580px;
     border-radius: 10px;
     overflow: hidden;
     margin: 20px;
@@ -74,9 +74,8 @@ button{
     border-radius: 15px;
     color: #d5bdaf;
     font-size: 15px;
-    padding: 2px 25px;
     font-weight: bold;
-    margin: 20px auto;
+    padding: 2px 25px;
 }
 
 button:hover {
